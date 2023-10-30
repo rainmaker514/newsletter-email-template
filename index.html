@@ -97,7 +97,7 @@
         }
 
         .icon{
-            max-width: 50px;
+            max-width: 30px;
             height: auto;
             padding-bottom: 25px;
         }
@@ -109,6 +109,15 @@
         .social-icons{
             display: flex;
             justify-content: space-evenly;
+        }
+
+        .menu:hover{
+            cursor: pointer;
+        }
+
+        /* media queries */
+        @media screen and (min-width: 768px) {
+            
         }
     </style>
 </head>
@@ -233,7 +242,7 @@
                     </td>
                 </tr>
             </table>
-            <table style="border: solid 1px; background-color: #171a1b;">
+            <table class="menu" style="border: solid 1px; background-color: #171a1b;">
                 <tr>
                     <td style="border: solid white 1px;">
                         <h1 style="font-weight: 400; color: white;">SHOP ALL</h1>
@@ -268,7 +277,7 @@
             </tr>
             <tr>
                 <td style="color: white;">
-                    <p>Genuine gemstone jewelry. Beautifully priced. Authentically you.</p>
+                    <p style="margin-bottom:40px;">Genuine gemstone jewelry. Beautifully priced. Authentically you.</p>
                     <div class="social-icons">
                         <img class="icon" src="img/instagram.svg" alt="instagram">
                         <img class="icon" src="img/facebook.svg" alt="facebook">
@@ -276,8 +285,7 @@
                         <img class="icon" src="img/tiktok.svg" alt="tiktok">
                     </div>
                     <p>1234 Road, City, State, Zip</p>
-                    <h4>Contact Us</h4>
-                    <p>Telephone: 777-777-7777</p>
+                    <p>777-777-7777</p>
                 </td>
             </tr>
         </table>
