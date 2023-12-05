@@ -1,0 +1,247 @@
+<mjml>
+  <mj-head>
+    <mj-title>Newsletter Email Template</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Verdana" />
+      <mj-text padding="0" align="center" />
+      <mj-section padding="0" background-color="whitesmoke" />
+    </mj-attributes>
+    <mj-style>
+      .logo:hover {
+        cursor: pointer;
+      }
+
+      .button a {
+        padding: 10px 0 10px 0 !important;
+      }
+
+      @media(max-width: 320px) {
+        .link {
+          font-size: 10px !important;
+        }
+      }
+
+      @media(min-width: 425px) {
+        .link {
+          padding: 0 16px 0 16px !important;
+        }
+      }
+
+      @media(min-width: 768px) {
+        .link {
+          padding: 0 30px 0 30px !important;
+        }
+
+
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ccc">
+    <mj-section background-color="#171a1b">
+      <mj-column>
+        <mj-text padding="0 25px" css-class="logo" letter-spacing="5px" color="white" align="center" font-family="Georgia, 'Times New Roman', Times, serif">
+          <h1>Lunar Allure
+          </h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#171a1b">
+      <mj-group css-class="nav-bar">
+        <mj-column>
+          <mj-navbar>
+            <mj-navbar-link css-class="link" padding="0 6px 0 6px" color="white" href="#">
+              Shop All
+            </mj-navbar-link>
+            <mj-navbar-link css-class="link" padding="0 6px 0 6px" color="white" href="#">
+              rings
+            </mj-navbar-link>
+            <mj-navbar-link css-class="link" padding="0 6px 0 6px" color="white" href="#">
+              Necklaces
+            </mj-navbar-link>
+            <mj-navbar-link css-class="link" padding="0 6px 0 6px" color="white" href="#">
+              bracelets
+            </mj-navbar-link>
+          </mj-navbar>
+          <mj-divider border-width="1px" border-style="solid" border-color="white" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image padding="0" src="https://i.ibb.co/Rb4K0FZ/Worldwide-Shipping-Available.png" alt="shipping" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://i.ibb.co/1vW50dk/banner-img.png" alt="banner" />
+        <mj-button css-class="button" width="80%" href="#" background-color="#171a1b">
+          SHOP CRYSTAL JEWELRY
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Georgia">
+          <h3 style="margin: 10px 0;">CREATE YOUR PERFECT ENERGY</h3>
+          <h3 style="margin-top: 0;">AND YOUR PERFECT PIECE</h3>
+        </mj-text>
+        <mj-text>
+          <p style="margin: 0;">Step 1: Choose your gemstone</p>
+          <p style="margin: 0;">Step 2: Choose your jewelry type</p>
+          <p style="margin-top: 0;">Step 3: Choose your metal</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://i.ibb.co/MnMRxBV/necklace.webp" alt="necklace" />
+        <mj-button css-class="button" width="80%" href="#" background-color="#171a1b">
+          CLICK HERE TO DESIGN
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1 style="font-weight: 400;">HAVE YOU HEARD?</h1>
+          <h1 style="line-height: 1; font-size: 50px; font-weight: 300; font-family: Georgia;">Check Out This Month's Featured Gemstones</h1>
+          <h1 style="font-weight: 400;">GET <b>20% OFF</b> JUNE ONLY</h1>
+        </mj-text>
+        <mj-button css-class="button" width="80%" href="#" background-color="#171a1b">
+          GET CODE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fcfbfc">
+      <mj-column>
+        <mj-text padding="100px 0 0 0">
+          <h1 style="font-family: Georgia; font-weight: 400;">MOONSTONE</h1>
+          <p>BRILLIANT CUT &</p>
+          <p>STUNNINGLY RADIANT</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" src="https://i.ibb.co/JrjyDFy/moonstone-ring.webp" alt="moonstone-ring" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fcfbfc" direction="rtl">
+      <mj-column>
+        <mj-text padding="50px 0 0 0">
+          <h1 style="font-family: Georgia; font-weight: 400;">PEARL</h1>
+          <P>ETHICALLY-SOURCED</P>
+          <P>& HAND-SELECTED</P>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" src="https://i.ibb.co/jWT2TPP/pearl-necklace.webp" alt="pearl-necklace" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1 style="font-family: Georgia; margin: 20px; font-weight: 400;">SEE WHAT OUR CUSTOMERS HAVE TO SAY</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="left" padding="20px 0 0 16px">
+          <h1 style="font-family: Georgia; margin: 0; font-weight: 400;"><b>MARY W.</b> </h1>
+          <p style="margin: 0; padding-top: 10px; font-size: 13px;">Verified Buyer</p>
+        </mj-text>
+        <mj-image align="left" padding="0 0 0 16px" width="50px" src="https://i.ibb.co/YBnjzZH/stars.png" alt="five-stars" />
+        <mj-text align="left" padding="0 16px 0 16px">
+          <h2 style="margin: 0 0 16px;">Elegant</h2>
+          <p style="margin: 0;">I don't usually go for pearls but I was intrigued by the elegant
+            simplicity, so glad I bought it! It is very classy and feels lovely!</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image width="200px" src="https://i.ibb.co/YDKHLcb/pearl-necklace-review.jpg" alt="pearl-necklace-review" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="left" padding="20px 0 0 16px">
+          <h1 style="font-family: Georgia; margin: 0; font-weight: 400;"><b>TATIANNA M.</b> </h1>
+          <p style="margin: 0; padding-top: 10px; font-size: 13px;">Verified Buyer</p>
+        </mj-text>
+        <mj-image align="left" padding="0 0 0 16px" width="50px" src="https://i.ibb.co/YBnjzZH/stars.png" alt="five-stars" />
+        <mj-text align="left" padding="0 16px 0 16px">
+          <h2 style="margin: 0 0 16px;">Worth it!!!</h2>
+          <p style="margin: 0;">Absolutely beautiful. I wasn’t sure how the quality would come out since I was a first time buyer, but it is GORGEOUS.
+            So happy with the result!</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image width="200px" src="https://i.ibb.co/Y3jhTv9/moonstone-ring-review.jpg" alt="moonstone-ring-review" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button padding="16px" css-class="button" width="80%" href="#" background-color="#171a1b">
+          SHOP JUNE BIRTHSTONES
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#171a1b">
+      <mj-column padding="32px 0 0 0">
+        <mj-table padding="0">
+          <tr style="text-align: center;">
+            <td style="border: solid 1px white">
+              <h1 style="font-size: 16px; font-weight: 400; color: white">SHOP ALL</h1>
+            </td>
+            <td style="border: solid 1px white">
+              <h1 style="font-size: 16px; font-weight: 400; color: white">NEW ARRIVALS</h1>
+            </td>
+          </tr>
+          <tr style="text-align: center;">
+            <td style="border: solid 1px white">
+              <h1 style="font-size: 16px; font-weight: 400; color: white">MOONSTONES</h1>
+            </td>
+            <td style="border: solid 1px white">
+              <h1 style="font-size: 16px; font-weight: 400; color: white">DIAMONDS</h1>
+            </td>
+          </tr>
+          <tr style="text-align: center;">
+            <td style="border: solid 1px white">
+              <h1 style="font-size: 16px; font-weight: 400; color: white">BUNDLES</h1>
+            </td>
+            <td style="border: solid 1px white">
+              <h1 style="font-size: 16px; font-weight: 400; color: white">SALES</h1>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#171a1b">
+      <mj-column>
+        <mj-text padding="0 25px" css-class="logo" letter-spacing="5px" color="white" align="center" font-family="Georgia, 'Times New Roman', Times, serif">
+          <h1>Lunar Allure
+          </h1>
+        </mj-text>
+        <mj-text color="white" line-height="30px">
+          Genuine gemstone jewelry. Beautifully priced. Authentically you.
+        </mj-text>
+        <mj-social inner-padding="10px" icon-size="25px" mode="horizontal">
+          <mj-social-element src="https://i.ibb.co/Y3sSZGF/linkedin.png" href="www.linkedin.com/in/teriq-douglas-527233152">
+          </mj-social-element>
+          <mj-social-element src="https://i.ibb.co/9nxQQ3y/facebook.png" href="#">
+          </mj-social-element>
+          <mj-social-element href="https://twitter.com/yungicedt" src="https://i.ibb.co/7zHgKC2/twitter.png">
+          </mj-social-element>
+          <mj-social-element href="#" src="https://i.ibb.co/RNM5PSr/instagram.png">
+          </mj-social-element>
+          <mj-social-element href="#" src="https://i.ibb.co/MsZxJm5/tiktok.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding-bottom="16px" color="white">
+          1234 Road, City, State, Zip
+        </mj-text>
+        <mj-text padding-bottom="16px" color="white">
+          777-777-7777
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
