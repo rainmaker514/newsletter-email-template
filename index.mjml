@@ -7,7 +7,7 @@
       <mj-section padding="0" background-color="whitesmoke" />
     </mj-attributes>
     <mj-style>
-      .logo:hover, .menu {
+      .logo:hover, .menu:hover {
         cursor: pointer;
       }
 
