@@ -39,7 +39,7 @@
   <mj-body background-color="#ccc">
     <mj-section background-color="#171a1b">
       <mj-column>
-        <mj-text padding="0 25px" css-class="logo" letter-spacing="5px" color="white" align="center" font-family="Georgia, 'Times New Roman', Times, serif">
+        <mj-text padding="0 25px" css-class="logo" letter-spacing="5px" color="white" font-family="Georgia, 'Times New Roman', Times, serif">
           <h1>Lunar Allure
           </h1>
         </mj-text>
@@ -68,12 +68,12 @@
     </mj-section>
     <mj-section background-color="#fff">
       <mj-column>
-        <mj-image padding="0" src="https://i.ibb.co/Rb4K0FZ/Worldwide-Shipping-Available.png" alt="shipping" />
+        <mj-image padding="0" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685096/Worldwide-Shipping-Available_nvrct6.png" alt="shipping" />
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image padding="0" src="https://i.ibb.co/1vW50dk/banner-img.png" alt="banner" />
+        <mj-image padding="0" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685094/banner-img_1_z3vntr.png" alt="banner" />
         <mj-button css-class="button" width="80%" href="#" background-color="#171a1b">
           SHOP CRYSTAL JEWELRY
         </mj-button>
@@ -94,7 +94,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image padding="0" src="https://i.ibb.co/MnMRxBV/necklace.webp" alt="necklace" />
+        <mj-image padding="0" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685092/necklace_uegfsc.webp" alt="necklace" />
         <mj-button css-class="button" width="80%" href="#" background-color="#171a1b">
           CLICK HERE TO DESIGN
         </mj-button>
@@ -121,7 +121,7 @@
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-image padding="0" src="https://i.ibb.co/JrjyDFy/moonstone-ring.webp" alt="moonstone-ring" />
+        <mj-image padding="0" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685090/moonstone-ring_drxooq.webp" alt="moonstone-ring" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#fcfbfc" direction="rtl">
@@ -133,7 +133,7 @@
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-image padding="0" src="https://i.ibb.co/jWT2TPP/pearl-necklace.webp" alt="pearl-necklace" />
+        <mj-image padding="0" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685088/pearl-necklace_yhmdcy.webp" alt="pearl-necklace" />
       </mj-column>
     </mj-section>
     <mj-section>
@@ -149,7 +149,7 @@
           <h1 style="font-family: Georgia; margin: 0; font-weight: 400;"><b>MARY W.</b> </h1>
           <p style="margin: 0; padding-top: 10px; font-size: 13px;">Verified Buyer</p>
         </mj-text>
-        <mj-image align="left" padding="0 0 0 16px" width="50px" src="https://i.ibb.co/YBnjzZH/stars.png" alt="five-stars" />
+        <mj-image align="left" padding="0 0 0 16px" width="50px" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685084/stars_qfufdr.png" alt="five-stars" />
         <mj-text align="left" padding="0 16px 0 16px">
           <h2 style="margin: 0 0 16px;">Elegant</h2>
           <p style="margin: 0;">I don't usually go for pearls but I was intrigued by the elegant
@@ -157,7 +157,7 @@
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-image width="200px" src="https://i.ibb.co/YDKHLcb/pearl-necklace-review.jpg" alt="pearl-necklace-review" />
+        <mj-image width="200px" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685086/pearl-necklace-review_zlyaz1.jpg" alt="pearl-necklace-review" />
       </mj-column>
     </mj-section>
     <mj-section>
@@ -166,7 +166,7 @@
           <h1 style="font-family: Georgia; margin: 0; font-weight: 400;"><b>TATIANNA M.</b> </h1>
           <p style="margin: 0; padding-top: 10px; font-size: 13px;">Verified Buyer</p>
         </mj-text>
-        <mj-image align="left" padding="0 0 0 16px" width="50px" src="https://i.ibb.co/YBnjzZH/stars.png" alt="five-stars" />
+        <mj-image align="left" padding="0 0 0 16px" width="50px" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685084/stars_qfufdr.png" alt="five-stars" />
         <mj-text align="left" padding="0 16px 0 16px">
           <h2 style="margin: 0 0 16px;">Worth it!!!</h2>
           <p style="margin: 0;">Absolutely beautiful. I wasn’t sure how the quality would come out since I was a first time buyer, but it is GORGEOUS.
@@ -174,7 +174,7 @@
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-image width="200px" src="https://i.ibb.co/Y3jhTv9/moonstone-ring-review.jpg" alt="moonstone-ring-review" />
+        <mj-image width="200px" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685082/moonstone-ring-review_c0xc3h.jpg" alt="moonstone-ring-review" />
       </mj-column>
     </mj-section>
     <mj-section>
@@ -224,15 +224,15 @@
           Genuine gemstone jewelry. Beautifully priced. Authentically you.
         </mj-text>
         <mj-social inner-padding="10px" icon-size="25px" mode="horizontal">
-          <mj-social-element src="https://i.ibb.co/Y3sSZGF/linkedin.png" href="www.linkedin.com/in/teriq-douglas-527233152">
+          <mj-social-element src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685080/linkedin_2_ftxvr7.png" href="www.linkedin.com/in/teriq-douglas-527233152">
           </mj-social-element>
-          <mj-social-element src="https://i.ibb.co/9nxQQ3y/facebook.png" href="#">
+          <mj-social-element src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685078/facebook_2_su2rle.png" href="#">
           </mj-social-element>
-          <mj-social-element href="https://twitter.com/yungicedt" src="https://i.ibb.co/7zHgKC2/twitter.png">
+          <mj-social-element href="https://twitter.com/yungicedt" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685077/twitter_2_oxw45r.png">
           </mj-social-element>
-          <mj-social-element href="#" src="https://i.ibb.co/RNM5PSr/instagram.png">
+          <mj-social-element href="#" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685075/instagram_3_g7abnz.png">
           </mj-social-element>
-          <mj-social-element href="#" src="https://i.ibb.co/MsZxJm5/tiktok.png">
+          <mj-social-element href="#" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721685072/tiktok_2_nkgkad.png">
           </mj-social-element>
         </mj-social>
         <mj-text padding-bottom="16px" color="white">
